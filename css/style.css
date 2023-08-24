@@ -1,0 +1,196 @@
+.textcolor {
+    text-align: center;
+    color: orange;
+    background-color: blue;
+    border-color: olive;
+
+}
+
+.textalignmentcenter {
+    text-align: center;
+    background-color: white;
+    border-color: orangered;
+
+}
+
+
+
+.textalignmentleft {
+    text-align: left;
+    background-color: blueviolet;
+    border-color: blue;
+    box-shadow: 10px 10px lightblue;
+
+}
+
+.textalignmentright {
+    text-align: right;
+    background-color: pink;
+    border-color: yellow;
+
+}
+
+.textalignmentjustify {
+    text-align: justify;
+    background-color: brown;
+    border-color: brown;
+
+}
+
+
+.textalignmentlastcenter {
+    text-align-last: center;
+    border-color: orange;
+
+}
+
+.textalignmentlastleft {
+    text-align-last: left;
+    border-color: olive;
+}
+
+.textalignmentlastright {
+    text-align-last: right;
+}
+
+.textalignmentlastjustify {
+    text-align-last: justify;
+    border-color: red;
+}
+
+
+.rtl {
+    direction: rtl;
+    border-color: green;
+}
+
+.ltr {
+    direction: ltr;
+    border-color: black;
+}
+
+
+div.ex1 {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    border-color: brown;
+}
+
+.decoration1 {
+    text-decoration: overline;
+    border-color: blueviolet;
+}
+
+.decoration2 {
+    text-decoration: line-through;
+    border-color: hotpink;
+
+}
+
+.decoration3 {
+    text-decoration: underline;
+    border-color: magenta;
+
+}
+
+.deoration4 {
+    text-decoration: underline blue;
+    border-color: purple;
+}
+
+.transformation {
+    text-transform: uppercase;
+    border-color: black;
+}
+
+.transformation2 {
+    text-transform: lowercase;
+    border-color: crimson;
+}
+
+.transformation3 {
+    text-transform: capitalize;
+    border-color: brown;
+}
+
+.textindent {
+    text-indent: 50px;
+    border-color: red;
+
+}
+
+.spacing {
+    word-spacing: 50px;
+    border-color: darkred;
+
+}
+
+.spacing2 {
+    letter-spacing: 20px;
+    border-color: blue;
+}
+
+.small {
+    line-height: 0.8;
+    border-color: aqua;
+}
+
+.big {
+    line-height: 1.8;
+    border-color: palegreen;
+}
+
+.one {
+    word-spacing: 10px;
+    border-color: antiquewhite;
+}
+
+.two {
+    word-spacing: -2px;
+    border-color: chartreuse;
+}
+
+.whitespace {
+    white-space: nowrap;
+    border-color: blanchedalmond;
+}
+
+.whitespace1 {
+    white-space: normal;
+    border-color: darkmagenta;
+}
+
+.whitespace2 {
+    white-space: pre-wrap;
+    border-color: deeppink;
+}
+
+.shadow {
+    text-shadow: 3px 3px;
+    color: red greenyellow;
+    border-color: deeppink;
+
+}
+
+.box {
+    border-color: royalblue orange black green;
+}
+
+.baseline h1 img {
+
+    vertical-align: baseline;
+    border-color: hotpink;
+}
+
+.texttop h1 img {
+
+
+    vertical-align: text-top;
+    border-color: mediumslateblue;
+}
+
+.textbottom h1 img {
+
+    vertical-align: text-bottom;
+    border-color: blueviolet;
+}
